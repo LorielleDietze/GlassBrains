@@ -47,3 +47,6 @@ Step 9: fslmaths JHU_[tractname]_bmi.nii.gz -add JHU_[tractname]_bmi.nii.gz -add
 ### In MRIcroGL scripting
 
 See MRIcroGL_Glass_Brain.py
+
+---
+© 2026 Lorielle Dietze. This work is licensed under a Creative Commons Attribution 4.0 International License.
