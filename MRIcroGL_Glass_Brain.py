@@ -17,3 +17,5 @@ gl.shaderadjust('edgeThresh', 0.85)
 gl.shaderadjust('edgeBoundMix',0.05)
 gl.shaderadjust('colorTemp', 0.8)
 gl.backcolor(255, 255,255)
+
+# Licensed under the MIT License. See the LICENSE-CODE.md file for details.
